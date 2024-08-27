@@ -1,4 +1,6 @@
-Result of the Analysis 
+# Customer Personality Analysis
+
+## Result of the Analysis 
 
 Senior customers tend to buy more wines
 
